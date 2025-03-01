@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Tay Nguyen</h1>
-<h3 align="center">A Frontend Developer from Vietnam</h3>
+
+<p align="center">
+  Hi, I'm  Phương Tây, Front End Developer from VietNam
+  <br>
+  🔬 I am currently a student majoring in Software Engineering at SGU-University Of Science
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  💬 Ask me anything about from <a href="https://www.facebook.com/profile.php?id=61556701409917" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto:phuongtay52636@gmail.com"> <a href="mailto: phuongtay52636@gmail.com">phuongtay52636@gmail.com</a>
+  <br>
+
+</p>
 
 <div align="center">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="600"/>
@@ -93,10 +105,6 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=phuongtay52636&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/79363930/161676032-46ec991d-dc35-4501-9a63-6b78c22d1275.gif" alt="Dino" width="800"></p>
 
 ---
-
-⭐️ Inspired by [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
