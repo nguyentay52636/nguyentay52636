@@ -28,7 +28,7 @@
 ### 🚀 About Me  
 - 💻 Passionate about Frontend Development & UI/UX Design  
 - 🌱 Currently exploring **React, TypeScript, and TailwindCSS**  
-- 📫 Reach me at **[phuongtay52636](https://twitter.com/phuongtay52636)**  
+- 📫 zalo : 0846777901 (Tây)**  
 
 ---
 
