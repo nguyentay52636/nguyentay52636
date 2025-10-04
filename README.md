@@ -1,40 +1,39 @@
-<h2 align="center">👋 Hi, I'm Phương Tây</h2>
+<h1 align="center">👋 Hi, I'm Phương Tây</h1>
+<h3 align="center">Frontend Developer from Vietnam 🇻🇳</h3>
+
 <p align="center">
-  Frontend Developer from Vietnam 🇻🇳  
+  🎓 Student in Software Engineering @ SGU  
   <br>
-  Student in Software Engineering @ SGU  
-  <br>
-  Passionate about clean UI, modern web, and good code.
+  💡 Passionate about clean UI, modern web, and good code.
 </p>
+
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" alt="Coding animation">
 </p>
+
 ---
 
 ### 🧠 About Me  
 - 💻 Focused on **Frontend Development**  
-- 🌱 Learning **React, TypeScript, TailwindCSS**  
-- ✉️ Contact: [phuongtay52636@gmail.com](mailto:phuongtay52636@gmail.com)  
-- 💬 Facebook: [Profile](https://www.facebook.com/profile.php?id=61556701409917)  
-- 📱 Zalo: 0846777901  
+- 🌱 Currently learning **React, TypeScript, TailwindCSS**  
+- 📫 Email: [phuongtay52636@gmail.com](mailto:phuongtay52636@gmail.com)  
+- 💬 Facebook: [Phương Tây](https://www.facebook.com/profile.php?id=61556701409917)  
+- 📱 Zalo: **0846777901**
 
 ---
 
 ### 🛠️ Tech Stack  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,java,nodejs,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,java,mysql" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🌐 Connect  
-<p>
+### 🌐 Connect with Me  
+<p align="center">
   <a href="https://twitter.com/phuongtay52636" target="_blank">Twitter</a> •
   <a href="https://fb.com/phuongtay" target="_blank">Facebook</a> •
   <a href="https://instagram.com/phuongtay52636" target="_blank">Instagram</a>
 </p>
 
 ---
-
-
-
