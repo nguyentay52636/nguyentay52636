@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" alt="Coding animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNxeHdvMXhwdWdzaXcyenU3bTRwYnZyZmJma3RrMDltZGF6NzhjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WirhZMBF1AZVK/giphy.gif" width="420" alt="Coding animation">
 </p>
 
 ---
 
 ### 🧠 About Me  
 - 💻 Focused on **Frontend Development**  
-- 🌱 Currently learning **React, TypeScript, TailwindCSS**  
+- 🌱 Exploring **ReactJS, NestJS, Java, PHP, C#, MongoDB, PostgreSQL, AWS, and Google Cloud**  
 - 📫 Email: [phuongtay52636@gmail.com](mailto:phuongtay52636@gmail.com)  
 - 💬 Facebook: [Phương Tây](https://www.facebook.com/profile.php?id=61556701409917)  
 - 📱 Zalo: **0846777901**
@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,java,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nestjs,php,java,cs,js,ts,html,css,mongodb,postgres,aws,gcp" alt="Tech Stack" />
 </p>
 
 ---
