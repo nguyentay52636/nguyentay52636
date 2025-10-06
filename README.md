@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nestjs,php,java,cs,js,ts,html,css,mongodb,postgres,aws,gcp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nestjs,php,java,cs,js,ts,html,css,aws,gcp,mysql,mongodb,postgres,spring" alt="Tech Stack" />
 </p>
 
 ---
