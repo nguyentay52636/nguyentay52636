@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Phương Tây</h1>
+<h1 align="center">👋 Hi, I'm Phương Tây (Westly)</h1>
 <h3 align="center">Frontend Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
