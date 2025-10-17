@@ -4,7 +4,7 @@
 <p align="center">
   🎓 Student in Software Engineering @ SGU  
   <br>
-  💡 Passionate about clean UI, modern web, and good code.
+  💡 Passionate about clean UI, modern web, and good code , hard-working, eager to learn
 </p>
 
 <p align="center">
@@ -30,10 +30,5 @@
 ---
 
 ### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://twitter.com/phuongtay52636" target="_blank">Twitter</a> •
-  <a href="https://fb.com/phuongtay" target="_blank">Facebook</a> •
-  <a href="https://instagram.com/phuongtay52636" target="_blank">Instagram</a>
-</p>
 
 ---
