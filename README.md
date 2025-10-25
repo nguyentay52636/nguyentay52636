@@ -15,7 +15,7 @@
 
 ### 🧠 About Me  
 - 💻 Focused on **Frontend Development**  
-- 🌱 Exploring **ReactJS, NestJS, Java, PHP, C#, MongoDB, PostgreSQL, AWS, and Google Cloud**  
+- 🌱 Exploring **ReactJS, NestJS, Java C#, MongoDB, PostgreSQL, AWS, and Google Cloud**  
 - 📫 Email: [phuongtay52636@gmail.com](mailto:phuongtay52636@gmail.com)  
 - 💬 Facebook: [Phương Tây](https://www.facebook.com/profile.php?id=61556701409917)  
 - 📱 Zalo: **0846777901**
@@ -24,11 +24,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nestjs,php,java,cs,js,ts,html,css,aws,gcp,mysql,mongodb,postgres,spring" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nestjs,java,cs,js,ts,html,css,aws,gcp,mysql,mongodb,postgres,spring" alt="Tech Stack" />
 </p>
 
----
 
-### 🌐 Connect with Me  
-
----
