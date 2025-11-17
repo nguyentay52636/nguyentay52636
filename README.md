@@ -6,14 +6,18 @@
   💡 Interested in clean UI & learning modern web development
 </p>
 
+---
 
-### 🧠 About Me
+ 🧠 About Me
 - 💻 Focused on **Frontend Development**  
 - 🌱 Learning **ReactJS, NestJS, MongoDB, PostgreSQL, AWS, GCP**  
 - 📫 Email: [phuongtay52636@gmail.com](mailto:phuongtay52636@gmail.com)  
 - 💬 Facebook: [Phương Tây](https://www.facebook.com/profile.php?id=61556701409917)  
 - 📱 Zalo: 0846777901
 
-### 🛠️ Tech Stack
+---
+
+🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nestjs,js,ts,ht
+  <img src="https://skillicons.dev/icons?i=react,nestjs,js,ts,html,css,aws,gcp,mysql,mongodb,spring" alt="Tech Stack" />
+</p>
