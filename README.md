@@ -6,7 +6,6 @@
   💡 Interested in clean UI & learning modern web development
 </p>
 
----
 
 ### 🧠 About Me
 - 💻 Focused on **Frontend Development**  
@@ -14,8 +13,6 @@
 - 📫 Email: [phuongtay52636@gmail.com](mailto:phuongtay52636@gmail.com)  
 - 💬 Facebook: [Phương Tây](https://www.facebook.com/profile.php?id=61556701409917)  
 - 📱 Zalo: 0846777901
-
----
 
 ### 🛠️ Tech Stack
 <p align="center">
