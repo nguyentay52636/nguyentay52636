@@ -8,16 +8,18 @@
 
 ---
 
- 🧠 About Me
-- 💻 Focused on **Frontend Development**  
-- 🌱 Learning **ReactJS, NestJS, MongoDB, PostgreSQL, AWS, GCP**  
-- 📫 Email: [phuongtay52636@gmail.com](mailto:phuongtay52636@gmail.com)  
-- 💬 Facebook: [Phương Tây](https://www.facebook.com/profile.php?id=61556701409917)  
-- 📱 Zalo: 0846777901
+<h2 align="center">🧠 About Me</h2>
+<p align="center">
+💻 Focused on <b>Frontend Development</b><br>
+🌱 Learning <b>ReactJS, NestJS, MongoDB, PostgreSQL, AWS, GCP</b><br>
+📫 Email: <a href="mailto:phuongtay52636@gmail.com">phuongtay52636@gmail.com</a><br>
+💬 Facebook: <a href="https://www.facebook.com/profile.php?id=61556701409917">Phương Tây</a><br>
+📱 Zalo: 0846777901
+</p>
 
 ---
 
-🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nestjs,js,ts,html,css,aws,gcp,mysql,mongodb,spring" alt="Tech Stack" />
 </p>
