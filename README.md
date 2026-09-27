@@ -85,16 +85,3 @@ I care about clean architecture, robust APIs, and delivering products that feel 
   <img src="https://streak-stats.demolab.com?user=nguyentay52636&theme=omni&hide_border=false">
 
 </p>
-
----
-
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyentay52636/nguyentay52636/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyentay52636/nguyentay52636/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/nguyentay52636/nguyentay52636/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-</div>
