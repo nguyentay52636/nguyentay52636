@@ -20,6 +20,12 @@
   <a href="https://github.com/nguyentay52636" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:phuongtay52636@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/84846777901" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -30,7 +36,7 @@
 
 I'm a **Web Developer** focused on building modern, scalable full-stack applications.
 
-I work across the stack — from **React / Next.js** on the frontend to **Node.js, Express, NestJS, and Spring Boot** on the backend — with **MongoDB, Prisma, and SQL** for data, plus **Prompt AI** for AI-powered features.
+I work across the stack — from **React / Next.js** on the frontend to **Node.js, Express, NestJS, and Spring Boot** on the backend — with **MongoDB, Prisma, and SQL** for data, plus **Prompt Engineering** to build AI-powered features.
 
 I care about clean architecture, robust APIs, and delivering products that feel fast and reliable, focusing on product concepts and their effectiveness for businesses and individuals.
 
@@ -63,7 +69,7 @@ I care about clean architecture, robust APIs, and delivering products that feel 
 <strong>🤖 AI & Tools</strong>
 
 <p>
-<img src="https://img.shields.io/badge/Prompt%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt AI"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
 &nbsp;
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode" />
 </p>
@@ -91,16 +97,4 @@ I care about clean architecture, robust APIs, and delivering products that feel 
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/nguyentay52636/nguyentay52636/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
-
-<div align="center">
-<p align="center">
-
-  ✨ <i>"Keep learning, keep building."</i> ✨
-
-</p>
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=120&section=footer"/>
-
 </div>
